@@ -1,5 +1,5 @@
 _repo: ChanteclerPlay-in-Four-Acts_10747
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brownell, Gertrude Hall
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '2737'
     url: http://www.gutenberg.org/2009/agents/2737
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rostand, Edmond
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/575
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10747#ChanteclerPlay-in-Four-Acts
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
